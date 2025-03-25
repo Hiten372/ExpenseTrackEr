@@ -1,0 +1,2 @@
+2025-03-23,utility,300.0,mobile recharge
+2025-03-23,food,200.0,lunch
